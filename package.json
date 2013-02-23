@@ -9,7 +9,7 @@
   "engines" : ["node"],
   "repository":   {
     "type": "git",
-    "url": "git@github.com:redhotvengeance/parsen.git"
+    "url": "git://github.com/redhotvengeance/parsen.git"
   },
   "main" : "./lib/parsen",
   "dependencies": {
